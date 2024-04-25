@@ -5,6 +5,7 @@ What do we intend to do?
 
 * Try to understand what a transformer does?
 * Coding the paper "Attention is all you need"
+* Langchain and RAG applications
 * Moving away from texts and understanding the effect on CV
 * Understanding ViT
 * Modifying ViT with shallower representation (enter the OG CNNs)
